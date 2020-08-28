@@ -18,7 +18,7 @@ class WeeklyCalendar {
   /**
    * Text file where the events are stored... can be relative or absolute path
    */
-  public static final String INPUT_FILENAME = "Classes";
+  public static final String INPUT_FILENAME = "ExampleInput";
   public static final String OUTPUT_EXTENSION = ".png";
   /**
    * User Defined Constant: DPI = number of pixels in an inch. Larger DPI makes

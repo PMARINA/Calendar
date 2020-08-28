@@ -22,4 +22,6 @@ Another Event
 
 ```
 
-Overlapping events will be taken care of such that the later in the input file it is given, and the later in the event, the higher it will be when drawn. 
+Overlapping events will be taken care of such that the later in the input file it is given, and the later in the event, the higher it will be when drawn.
+
+![ExampleInput.png](ExampleInput.png)

@@ -1,12 +1,12 @@
-#x000000 #0xFFFFFF
-Hard_Class #0xFF0000 #0x000000
-Easy_Class #0xFG #0xBG
-At_Home #0xFG #0xBG
+#0x000000 #0xFAFA9D
+Hard_Class #0xFF0000 #0x00004F
+Easy_Class #0xF00F00 #0x00FF00
+At_Home #0x0000FF #0x40FFFF
 
 Intro To Java
 Easy_Class
 1
-Monday 0700 0800
+Monday 1100 1220
 
 Piano
 Hard_Class
